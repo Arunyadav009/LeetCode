@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Arunyadav009/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Arunyadav009/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arunyadav009/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunyadav009/LeetCode/tree/master/0342-power-of-four) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arunyadav009/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Arunyadav009/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arunyadav009/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Arunyadav009/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arunyadav009/LeetCode/tree/master/0142-linked-list-cycle-ii) |
